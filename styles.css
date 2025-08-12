@@ -43,22 +43,22 @@ body {
 .layer1 {
   top: 0;
   width: 80px;
-  background: #d4b5eb;
-  border: 3px solid #bb94d8;
+  background: #cc93f8;
+  border: 3px solid #cc93f8;
 }
 
 .layer2 {
   top: 45px;
   width: 140px;
-  background: #f9fab1;
-  border: 3px solid #ebec88;
+  background: #fdff8e;
+  border: 3px solid #fdff8e;
 }
 
 .layer3 {
   top: 90px;
   width: 200px;
-  background: #f06292;
-  border: 3px solid #e91e63;
+  background: #ff558e;
+  border: 3px solid #ff558e;
 }
 
 .candle {
