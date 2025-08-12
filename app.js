@@ -70,7 +70,7 @@ playBtn.addEventListener('click', () => {
     text: "Želimo da ti se ispune sve želje! Sad si dovoljno stara da znaš bolje… i dovoljno mlada da svejedno napraviš glupost.😜 Love you!",
     footer: `
       <p>P.S. We wish you lots and lots of money, and may your future boyfriend be as hot as Johnny❤️‍🔥</p>
-      <img src="johnny2.png" width="400" style="border-radius:10px;">
+      <img src="johnny2.png" width="300" style="border-radius:10px;">
     `,
     confirmButtonText: "Close",
     confirmButtonColor: '#3180aa'
